@@ -37,7 +37,7 @@ const Hero = () => {
   return (
     <>
       <h1 className="text-5xl font-bold text-white text-center bg-black p-5">
-        Google Keep Clone
+        To-Do Lists
       </h1>
       <form
         onSubmit={submitHandler}
